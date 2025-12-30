@@ -5,7 +5,7 @@ These are handpicked from 600+ solutions because they fall into some category be
 -Used less memory than AI
 -Had better code structure than AI
 
-Used AI was Chat GPT 4.0
+Used AI was Chat GPT 4.0. Role of AI was sort of virtual partner. "Hey I was better here", "oh my, it was way better there". 
 
 These make up the bulk and lastly some picks are:
 
