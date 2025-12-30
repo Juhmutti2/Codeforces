@@ -1,24 +1,32 @@
-Some my best codeforces solutions.
+Some of my best Codeforces solutions.
 
 These are handpicked from 600+ solutions because they fall into some category below:
--Faster than AI 
--Used less memory than AI
--Had better code structure than AI
 
-Used AI was Chat GPT 4.0. Role of AI was sort of virtual partner: "Hey I was better here", "oh my, it was way better there". 
+- Faster than AI
+- Used less memory than AI
+- Had better code structure than AI
 
-These make up the bulk and lastly some picks are:
+Used AI was ChatGPT 4.0. The role of AI was more like a virtual partner:
+"Hey, I was better here", "Oh my, it was way better there".
 
--Bit challenging for my skills and were nicely done... IMO :D
+These make up the bulk, and lastly some picks are:
 
-Read me is in english, although the analysis in codefiles is in finnish. As context here is to "show activity" to potential future employers I recon it would not be time efficient to translate analysis in codefiles. 
+- Bit challenging for my skills and were nicely done... IMO :D
 
-Note about AI:
-Interestingly enough, in some solutions it became very obvious that AI lacks semantical understanding. That is deeper understanding of what we are trying to accomplish. In some cases it lead to inefficient or complicated solutions. 
+The README is in English, although the analysis inside code files is in Finnish.
+The context here is to show activity to potential future employers, and I consider it not time-efficient to translate the analysis.
 
-CF_stats shows my progress at Codeforces. 
+### Note about AI
 
-Screencapture shows my email to further proof it's my progress. 
-Stats are visible due to extension on codeforces.com hence picture and not a link. 
-My Codeforces ambitions were / are learning only; using AI in competition is not nice. 
-Progress is relevant to show amount of solutions and at certain point training was quite intense. 
+Interestingly enough, in some solutions it became very obvious that AI lacks semantic understanding — that is, deeper understanding of what we are trying to accomplish.
+In some cases this led to inefficient or unnecessarily complicated solutions.
+
+CF_stats shows my progress at Codeforces.
+
+Screencaptures show my email to further prove it's my progress.
+Stats are visible due to an extension on codeforces.com, hence pictures instead of links.
+
+My Codeforces ambitions were (and are) purely about learning.
+Using AI in competition is not nice.
+
+The progress is relevant to show the number of solved problems, and at a certain point the training was quite intense.
