@@ -21,7 +21,9 @@ The context here is to show activity to potential future employers, and I consid
 Interestingly enough, in some solutions it became very obvious that AI lacks semantic understanding — that is, deeper understanding of what we are trying to accomplish.
 In some cases this led to inefficient or unnecessarily complicated solutions.
 
-CF_stats shows my progress at Codeforces.
+### CF_stats 
+
+Shows my progress at Codeforces.
 
 Screencaptures show my email to further prove it's my progress.
 Stats are visible due to an extension on codeforces.com, hence pictures instead of links.
