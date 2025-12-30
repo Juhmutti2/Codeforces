@@ -6,12 +6,12 @@ These are handpicked from 600+ solutions because they fall into some category be
 - Used less memory than AI
 - Had better code structure than AI
 
-Used AI was ChatGPT 4.0. The role of AI was more like a virtual partner:
-"Hey, I was better here", "Oh my, it was way better there".
-
 These make up the bulk, and lastly some picks are:
 
 - Bit challenging for my skills and were nicely done... IMO :D
+
+Used AI was ChatGPT 4.0. The role of AI was more like a virtual partner:
+"Hey, I was better here", "Oh my, it was way better there".
 
 The README is in English, although the analysis inside code files is in Finnish.
 The context here is to show activity to potential future employers, and I consider it not time-efficient to translate the analysis.
